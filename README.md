@@ -1,4 +1,4 @@
-#GoFundMe webscraper
+# GoFundMe webscraper
 
 Very basic webscrapper to grab the basic gofundme details of a campaign
 
